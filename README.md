@@ -12,7 +12,7 @@
 
 ## Google Таблица
 
-[Аналитический отчет](google_sheets/report_link.txt)
+[Аналитический отчет](google_sheets/report_link.txt](https://docs.google.com/spreadsheets/d/10fOf69-iKudPPBgprOcojHlXJ6aLuZaeaGuDdcR-rWk/edit?gid=1614219230#gid=1614219230))
 
 ## Логика
 
